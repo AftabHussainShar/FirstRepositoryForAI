@@ -46,4 +46,3 @@
             <img src="uploads\Step6.PNG">
 
 
-## Create the file with AWS sagemaker 
