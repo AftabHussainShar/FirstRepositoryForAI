@@ -21,13 +21,13 @@
                 <img src="uploads\Step2.PNG">
             
             * copy file path  and run in anaconda and run on in it 
- <img src="uploads\Step3.PNG">
+         <img src="uploads\Step3.PNG">
 
 ## Step 3: Create Jupyter Notebook
 * conda prommt
     * jupyter notebook
         * right top ```new``` create new 
- <img src="uploads\Step4.PNG">
+   <img src="uploads\Step4.PNG">
 
 ## Step 4: Open in IDE 
 * Select the any IDE 
