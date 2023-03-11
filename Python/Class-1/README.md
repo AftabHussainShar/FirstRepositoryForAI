@@ -16,7 +16,7 @@
                * Save the file and close the editor
                   * Navigate back to the command prompt and type `python filename.py`
                      * The message will be displayed on the console 
-                       <img src="uploads\Step3.PNG">
+                       <img src="uploads\Step2.PNG">
 
 ## Step 3: Create Jupyter Notebook
 * conda prommt
