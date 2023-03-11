@@ -21,7 +21,7 @@
                 <img src="uploads\Step2.PNG">
             
             * copy file path  and run in anaconda and run on in it 
-         <img src="uploads\Step3.PNG">
+             <img src="uploads\Step3.PNG">
 
 ## Step 3: Create Jupyter Notebook
 * conda prommt
@@ -45,7 +45,7 @@
 * you must have google account
     * And go to google and type google collab
         * Create the google collab file 
-        <img src="uploads\Step6.PNG">
+         <img src="uploads\Step6.PNG">
 
 
 ## Create the file with AWS sagemaker 
