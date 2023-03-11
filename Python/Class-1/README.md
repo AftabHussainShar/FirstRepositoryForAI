@@ -21,7 +21,7 @@
                 <img src="uploads\Step2.PNG">
             
             * copy file path  and run in anaconda and run on in it 
-             <img src="uploads\Step3.PNG">
+                  <img src="uploads\Step3.PNG">
 
 ## Step 3: Create Jupyter Notebook
 * conda prommt
