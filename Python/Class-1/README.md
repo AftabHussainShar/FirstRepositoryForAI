@@ -19,27 +19,42 @@
                        <img src="uploads\Step2.PNG">
 
 ## Step 3: Create Jupyter Notebook
-* conda prommt
-    * jupyter notebook
-        * right top ```new``` create new 
-            <img src="uploads\Step4.PNG">
+* Open Anaconda Prompt
+   * Type `jupyter notebook` and press enter
+      * In the Jupyter Notebook interface, click on the `New` button and select `Python 3`
+         * A new Jupyter Notebook will be created
+            * Type `print("Hello Aftab Hussain Shar")` in the first cell
+               * Press `Shift + Enter` to run the cell
+                  * The message will be displayed below the cell
+                  <img src="uploads\Step4.PNG">
 
 ## Step 4: Open in IDE 
-* Select the any IDE 
-    * open VS code 
-        * Create .py file
-            * And run it
+* Open your preferred IDE (Integrated Development Environment)
+   * Create a new file called `filename.py`
+      * Type `print("Hello Aftab Hussain Shar")` in the file
+         * Save the file
+            * Run the file in the IDE
+               * The message will be displayed on the console
                <img src="uploads\Step3.PNG">
 
 ## Step 5: Create File with the jupyter lab
-* Conda promt -> cd path
-    * write "jupyter lab" 
-         <img src="uploads\Step5.PNG">
+* Open Anaconda Prompt
+   * Navigate to the directory where you want to create the file
+      * Type `jupyter lab` and press enter
+         * In the Jupyter Lab interface, click on the `+` button and select `Python 3`
+            * A new Jupyter Notebook will be created
+               * Type `print("Hello Aftab Hussain Shar")` in the first cell
+                  * Press `Shift + Enter` to run the cell
+                     * The message will be displayed below the cell
+                    <img src="uploads\Step5.PNG">
 
 ## Step 6: Google Collab
-* you must have google account
-    * And go to google and type google collab
-        * Create the google collab file 
-            <img src="uploads\Step6.PNG">
+* Sign in to your Google account
+   * Go to Google and search for `Google Colab`
+      * Click on `New notebook` to create a new notebook
+         * Type `print("Hello Aftab Hussain Shar")` in the first cell
+            * Press `Shift + Enter` to run the cell
+               * The message will be displayed below the cell
+               <img src="uploads\Step6.PNG">
 
 
