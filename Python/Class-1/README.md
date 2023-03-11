@@ -1,25 +1,22 @@
 # Hello World Aftab Hussain
 ## Step 1 : Console
-* Search
-    * anaconda 
-        * conda promt
-            * python
-
-                    ``` print ("Hello Aftab Hussain Shar") ```
-
-                <img src="uploads\Step1.PNG">
+* Open Anaconda Prompt
+    * Type `conda activate` and press enter to activate the environment
+      * Type `python` and press enter to open python interpreter
+         * Type `print("Hello Aftab Hussain Shar")` and press enter to print the message
+              * Output will be displayed as shown below
+               <img src="uploads\Step1.PNG">
 
 ## Step 2: Create physical file filename.py
-* Create the folder or directory
-    *  go to the path and clear and write in cmd and type code .
-        * Its open the Vs code
-            * Explore and create new file task.py
-                                
-                        ``` print ("Hello Aftab Hussain Shar") ```
-                <img src="uploads\Step2.PNG">
-            
-            * copy file path  and run in anaconda and run on in it 
-                  <img src="uploads\Step3.PNG">
+* Create a new folder or directory
+   * Open command prompt and navigate to the new folder
+      * Type `code .` and press enter to open Visual Studio Code
+         * Create a new file called `filename.py`
+            * Type `print("Hello Aftab Hussain Shar")` in the file
+               * Save the file and close the editor
+                  * Navigate back to the command prompt and type `python filename.py`
+                     * The message will be displayed on the console 
+                       <img src="uploads\Step3.PNG">
 
 ## Step 3: Create Jupyter Notebook
 * conda prommt
